@@ -1,0 +1,30 @@
+
+body {
+    background: #6CADFF;
+}
+.title_img{
+	position:fixed;
+	margin-bottom:66px;
+	margin-left:575px;
+}
+p.title {
+	position:static;
+	margin-bottom:80px;
+margin-left: 637px;
+    font-family: OpenSans-Bold;
+font-size: 24px;
+color: #FFFFFF;
+letter-spacing: 7.69px;
+
+ 
+}
+#text_form{
+	margin-bottom:200px;
+	margin-left:330px;
+	width:500px;
+}
+#img_submit{
+	
+	margin-left:1050px;
+
+}

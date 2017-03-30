@@ -1,0 +1,62 @@
+header
+{
+	padding:1em;
+	background: #6CADFF;
+	height:198px;
+}
+.title_img{
+	position:fixed;
+	margin-bottom:66px;
+	margin-left:575px;
+}
+p.title {
+	position:static;
+	margin-bottom:80px;
+margin-left: 637px;
+    font-family: OpenSans-Bold;
+font-size: 24px;
+color: #FFFFFF;
+letter-spacing: 7.69px;}
+div.task1{
+		background: #FFFFFF;
+border: 1px solid #E7E7E7;
+box-shadow: 0px 3px 0px 0px rgba(0,0,0,0.05);
+position:relative;
+left:311px;
+width:818px;
+height:144px;
+}
+
+p.time1
+{
+
+	font-family: OpenSans;
+font-size: 24px;
+color: #D9D9D9;
+position:relative;
+left:570px;
+}
+p.task1
+{
+	font-family: OpenSans;
+font-size: 24px;
+color: #888888;
+position:relative;
+left:19px;
+}
+button.stop1
+{
+position:relative;
+left:660px;
+	width:56px;
+    height:56px;
+visibility:hidden;
+}
+button.end1
+{
+	position:relative;
+	left:742px;
+	width:56px;
+	height:56px;
+	visibility:hidden;
+}
